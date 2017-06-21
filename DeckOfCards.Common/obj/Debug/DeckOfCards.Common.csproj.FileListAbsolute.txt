@@ -1,0 +1,5 @@
+D:\Code\deckofcards\DeckOfCards.Common\bin\Debug\DeckOfCards.Common.dll
+D:\Code\deckofcards\DeckOfCards.Common\bin\Debug\DeckOfCards.Common.pdb
+D:\Code\deckofcards\DeckOfCards.Common\obj\Debug\DeckOfCards.Common.csprojResolveAssemblyReference.cache
+D:\Code\deckofcards\DeckOfCards.Common\obj\Debug\DeckOfCards.Common.dll
+D:\Code\deckofcards\DeckOfCards.Common\obj\Debug\DeckOfCards.Common.pdb

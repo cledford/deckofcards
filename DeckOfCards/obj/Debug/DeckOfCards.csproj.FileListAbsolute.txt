@@ -1,0 +1,8 @@
+D:\Code\deckofcards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+D:\Code\deckofcards\DeckOfCards\bin\Debug\DeckOfCards.exe
+D:\Code\deckofcards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+D:\Code\deckofcards\DeckOfCards\obj\Debug\DeckOfCards.exe
+D:\Code\deckofcards\DeckOfCards\obj\Debug\DeckOfCards.pdb
+D:\Code\deckofcards\DeckOfCards\bin\Debug\DeckOfCards.Common.dll
+D:\Code\deckofcards\DeckOfCards\bin\Debug\DeckOfCards.Common.pdb
+D:\Code\deckofcards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
