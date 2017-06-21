@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace DeckOfCards.Common.Models
 {
-    public class Deck : IReadOnlyCollection<Card>
+    public class Deck
     {
         private SortedList<int,Card> _cards;
 
@@ -15,6 +14,8 @@ namespace DeckOfCards.Common.Models
         }
 
         public int Count => _cards.Count;
+
+        public Card[] Cards => _cards.Values.ToArray();
 
         public void Shuffle()
         {
@@ -45,18 +46,6 @@ namespace DeckOfCards.Common.Models
                 iterator++;
             }
         }
-       
-        public IEnumerator<Card> GetEnumerator()
-        {
-            return _cards.Values.GetEnumerator();
-        }
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return GetEnumerator();
-        }
-
-        internal SortedList<int, Card> Cards => _cards;
 
         private void BuildDeck()
         {
