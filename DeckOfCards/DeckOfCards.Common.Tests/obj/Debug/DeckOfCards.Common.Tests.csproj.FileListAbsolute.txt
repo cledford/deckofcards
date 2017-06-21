@@ -1,0 +1,10 @@
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\DeckOfCards.Common.Tests.dll
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\DeckOfCards.Common.Tests.pdb
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\DeckOfCards.Common.dll
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\nunit.framework.dll
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\DeckOfCards.Common.pdb
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\bin\Debug\nunit.framework.xml
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\obj\Debug\DeckOfCards.Common.Tests.csprojResolveAssemblyReference.cache
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\obj\Debug\DeckOfCards.Common.Tests.dll
+D:\Code\deckofcards\DeckOfCards\DeckOfCards.Common.Tests\obj\Debug\DeckOfCards.Common.Tests.pdb
