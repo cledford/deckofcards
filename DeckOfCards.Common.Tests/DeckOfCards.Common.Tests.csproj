@@ -58,7 +58,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\DeckOfCards.Common\DeckOfCards.Common.csproj">
+    <ProjectReference Include="..\DeckOfCards.Common\DeckOfCards.Common.csproj">
       <Project>{E691B021-754F-4C74-83F1-6D0EA2960CE0}</Project>
       <Name>DeckOfCards.Common</Name>
     </ProjectReference>
