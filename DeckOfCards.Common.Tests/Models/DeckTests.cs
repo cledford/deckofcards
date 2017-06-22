@@ -102,6 +102,13 @@ namespace DeckOfCards.Common.Tests.Models
         {
             var deck = new Deck();
 
+            /* XXX: An unfortunate side effect of DDD-style here is that I wrote the code in such a way 
+             *      that you can't provide a shuffled set of cards to test the ascending sort function on its own.
+             *      
+             *      Spending more time thinking about it, I'd probably make the shuffle and sort methods static or 
+             *      extension methods so they can be independently tested without relying on another function that 
+             *      also requires testing.
+             */
             deck.Shuffle();
 
             deck.SortAscending();
